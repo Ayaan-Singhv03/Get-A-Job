@@ -4,11 +4,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon :wserver.js",
-    "start": "node server.js"
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "nodemon index.js",
+  "start": "node index.js"
   },
-  "author": "Shubham Kumar",
+  "author": "Ayaan Singh",
   "license": "ISC",
   "description": "",
   "dependencies": {
