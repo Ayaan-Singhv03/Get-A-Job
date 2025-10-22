@@ -57,7 +57,7 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 
 ## 📁 Project Structure
 
-### job-portal/ ├── client/ # React + Tailwind frontend │ ├── components/ │ ├── pages/ │ └── ... ├── server/ # Express backend API │ ├── routes/ │ ├── controllers/ │ └── models/ └── README.md
+### Get-A-Job/ ├── client/ # React + Tailwind frontend │ ├── components/ │ ├── pages/ │ └── ... ├── server/ # Express backend API │ ├── routes/ │ ├── controllers/ │ └── models/ └── README.md
 
 ---
 
@@ -81,8 +81,8 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shubham79a/job-portal.git
-cd job-portal
+git clone https://github.com/Ayaan-Singhv03/Get-A-Job.git
+cd Get-A-Job
 ```
 
 ### 2. Setup Environment Variables
